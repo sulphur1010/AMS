@@ -12626,9 +12626,9 @@ header {
 }
 /* line 20, ../scss/custom/_header.scss */
 header .logo {
-  height: 56px;
+  height: 155px;
   margin-left: 0 !important;
-  width: 137px;
+  width: 150px;
   background:  url("logoNew.png");
   background-repeat: no-repeat;
   background-position: 50% 0;
@@ -16074,7 +16074,7 @@ body.slide-active {
 }
 /* line 159, ../scss/custom/_team-slider.scss */
 #team .owl-next {
-  background-image: url("right-arrow1.png");
+  background: url("right-arrow1.png");
   right: 50%;
   margin-right: -55px !important;
 }
